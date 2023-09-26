@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+Created-By: <Удалова Ольга>
+Main-Class: MyFirstClass
